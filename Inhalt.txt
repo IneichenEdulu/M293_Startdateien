@@ -1,0 +1,35 @@
+Die Grundsprache des Webs: HTML
+
+📘 Das Code-Magazin
+
+Die Grundsprache des Webs: HTML
+
+Gepostet von Lisa Simpson am Montag, 21. Juni 2029
+
+Alle modernen Websites und Webanwendungen werden mit drei grundlegenden Technologien erstellt: HTML, CSS und JavaScript. Das sind die Sprachen des Webs.
+
+Konzentrieren wir uns in diesem Beitrag auf HTML. Wir werden lernen, worum es bei HTML geht und warum auch Sie es lernen sollten.
+
+Was ist HTML?
+
+HTML steht für HyperText Markup Language. Es ist eine Auszeichnungssprache, die Webentwickler verwenden, um den Inhalt einer Webseite zu strukturieren und zu beschreiben (keine Programmiersprache).
+
+HTML besteht aus Elementen, die verschiedene Arten von Inhalten beschreiben: Absätze, Links, Überschriften, Bilder, Videos usw. Webbrowser verstehen HTML und geben HTML-Code als Websites wieder.
+
+In HTML besteht jedes Element aus 3 Teilen:
+
+Der Start-Tag
+Der End-Tag
+Das eigentliche Element
+
+Warum sollten Sie HTML lernen?
+
+Es gibt unzählige Gründe, die grundlegende Sprache des Webs zu lernen. Hier sind 5 davon:
+
+Um die grundlegende Web-Entwicklungssprache verwenden zu können.
+Schöne Websites von Hand zu erstellen, anstatt sich auf Tools wie Wordpress oder Wix zu verlassen.
+Zum Erstellen von Webanwendungen.
+Deine Lehrfirma zu beeindrucken
+Spass haben 😃
+
+Hoffentlich haben Sie hier etwas Neues gelernt. Bis zur nächsten Lektion!
